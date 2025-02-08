@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francisco Giagnoni Copello</h1>
 <h3 align="center">A passionate Engineer and Data Analyst / Scientist</h3>
 
-- 💬 Ask me about **SQL, Python, Power BI, Excel, and Process Engineering**
+- 💬 Ask me about **Business Intelligence, Data Analytics, Data Science, SQL, Python, Power BI, Excel, Business Development, Project Management and Process Engineering**
 
 - 📫 How to reach me **franciscogiagnoni@gmail.com**
 
